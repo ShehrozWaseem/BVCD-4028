@@ -1,3 +1,5 @@
+### Please mind the name it should have been Lab 2
+
 # Intial Values of both contract
 ![IntialVals](https://github.com/ShehrozWaseem/BVCD-4028/assets/51531489/6f414e64-1272-4ce1-ae12-d48801edf0cf)
 
